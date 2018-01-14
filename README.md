@@ -6,4 +6,4 @@ Uses p5 library for rendering
 
 ## Start
 
-Simply open the html file in the borwser
+Simply open the html file in the browser
